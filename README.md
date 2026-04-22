@@ -1,5 +1,3 @@
-<div align="center">
-
 # 📂 Menu Vertical com Abas (HTML + CSS)
 
 Interface com navegação lateral e sistema de abas interativas sem uso de JavaScript.
