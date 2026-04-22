@@ -1,39 +1,47 @@
-# 📂 Menu Vertical com Abas (HTML + CSS)
+# 📑 Guia Vertical com Abas - HTML & CSS
 
-Interface com navegação lateral e sistema de abas interativas sem uso de JavaScript.
-
-</div>
+Projeto de desenvolvimento de uma **interface com navegação vertical em abas**, permitindo alternar conteúdos dinamicamente sem o uso de JavaScript.
 
 ---
 
-## ✨ Sobre o Projeto
+## 🚀 Tecnologias utilizadas
 
-Este projeto apresenta um menu lateral vertical com abas que alteram o conteúdo exibido na tela.
-
-Toda a interatividade é feita apenas com HTML e CSS, utilizando inputs do tipo radio e pseudo-classes.
-
----
-
-## 🎯 Funcionalidades
-
-✔ Menu lateral interativo  
-✔ Sistema de abas com troca de conteúdo  
-✔ Indicador animado de seleção  
-✔ Interface moderna e organizada  
-✔ Sem uso de JavaScript  
+* HTML5
+* CSS3
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+## 🎯 Objetivo
 
-- HTML5  
-- CSS3  
-- Flexbox  
+Praticar conceitos de construção de interfaces interativas utilizando apenas HTML e CSS, incluindo:
+
+* Controle de estado com `input type="radio"`
+* Manipulação visual sem JavaScript
+* Organização de layout com Flexbox
+* Criação de navegação lateral (sidebar)
 
 ---
 
-## 🚀 Como usar
+## ⚙️ Funcionalidades
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/menu-vertical-abas-css.git
+* ✔️ Navegação por abas (tabs)
+* ✔️ Troca de conteúdo dinâmica
+* ✔️ Indicador animado de aba ativa
+* ✔️ Layout com sidebar lateral
+* ✔️ Responsividade para dispositivos menores
+
+---
+
+## ✨ Diferenciais técnicos
+
+* Interface 100% funcional **sem JavaScript**
+* Uso inteligente de seletores CSS (`:checked`)
+* Animação suave no indicador de navegação
+* Estrutura limpa e escalável
+* Design moderno e organizado
+
+---
+
+## 👩‍💻 Autora
+
+**Georgea Lacerda**
